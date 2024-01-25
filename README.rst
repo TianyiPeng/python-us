@@ -1,3 +1,6 @@
+The original version requires `jellyfish=0.11.2` which does not support Mac AMD64 architecture. This version removes that requirement.  
+
+
 .. image:: https://github.com/unitedstates/python-us/workflows/Tests/badge.svg
    :target: https://github.com/unitedstates/python-us/actions
 
